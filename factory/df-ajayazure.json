@@ -1,0 +1,15 @@
+{
+	"name": "df-ajayazure",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a55711e7-1f3d-440a-9ea5-677e7018864a",
+		"tenantId": "4148377d-16c3-4700-a1b0-29b7a44d8752"
+	}
+}
